@@ -1,5 +1,5 @@
 # Buscar CEP
-Interface Java realizada com Eclipse, com objetivo a busca de CEP por meio de Web Service!
+Interface Java realizada com Eclipse, com objetivo a busca de CEP automática por meio de Web Service!
 
 <br>
 <div align="center">
